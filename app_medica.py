@@ -22,7 +22,7 @@ st.set_page_config(
 MEDICOS = {
     "12345678": {"clave": "Pucallpa2026", "nombre": "Dra. Elsa María Gómez Vásquez", "especialidad": "Medicina Interna", "cmp": "012345"},
     "40451214": {"clave": "Pucallpa2026", "nombre": "Dr. Carlos Mendoza", "especialidad": "Medicina General", "cmp": "098765"},
-    "73000000": {"clave": "Pucallpa2026", "nombre": "Dr. Paul Gómez", "especialidad": "Medicina General", "cmp": "054321"},
+    "71883434": {"clave": "P03A15E13", "nombre": "Dr. Paul Angel Jesús Gómez Vásquez", "especialidad": "Medicina General", "cmp": "054321"},
 }
 
 # ═══════════════════════════════════════════════════════════════
